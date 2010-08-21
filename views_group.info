@@ -1,0 +1,7 @@
+; $Id$
+name = Views Group
+description = Group views fields inside custom HTML tags (e.g. DIV)
+dependencies[] = views
+package = Views
+core = 6.x
+ 
